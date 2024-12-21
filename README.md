@@ -1,2 +1,2 @@
-# go_database_access
+# go_database
 source codes for iup framework based programming go database
