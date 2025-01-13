@@ -1,5 +1,4 @@
 # go_database
-source codes for iup framework based programming go database
 
 ![image](https://github.com/user-attachments/assets/7dd88e43-411f-454d-86bb-eaa4ffc13d56)
 
